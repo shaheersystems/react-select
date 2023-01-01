@@ -11,7 +11,7 @@ function HeroSection() {
         Elegant, customizable select menu for user choice
       </p>
       <a
-        href='/'
+        href='https://github.com/shaheersystems/react-select'
         className='px-4 py-2 bg-indigo-800 rounded text-white font-semibold hover:bg-indigo-600'
       >
         Link to Repository
